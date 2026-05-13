@@ -6,15 +6,28 @@
 	</head>
 	<body>
 		<div id="wrapper">
+
+			
+			<div id="title">
+				<h1>To-Do List</h1>
+
+				<!-- The date will be dynamically changed after JavaScript is implemented -->
+				<p>5/13/2026</p>
+			</div>
+
 			<!-- 
-				This is where the app will output a list item based off of the user input from text-bar.
+				List Items will be outputted here.
 			-->
-			<div class="list"></div>
+			<div id="list"></div>
 
 			<!--
-				This is where the app will gather the user input.
+				User Input is gathered through a text input, and sent to the JavaScript
+				by the press of the submit input.
 			-->
-			<div class="text-bar"></div>
+			<div id="text-bar">
+				<input type="text" name="task" id="input_field" />
+				<input type="button" name="submit" id="submit_button" value="↥"/>
+			</div>
 		</div>
 
 		<script src="js/text-bar.js"></script>
