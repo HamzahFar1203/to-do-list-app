@@ -12,9 +12,9 @@ This is a very simple Front-End project. Data is not saved across sessions.
 
 Commit 1 Results:
 
-<img width="882" height="838" alt="image" src="https://github.com/user-attachments/assets/aaf2de99-16db-44e8-ab0c-da914d2e3826" />
+<img width="527" height="641" alt="image" src="https://github.com/user-attachments/assets/aaf2de99-16db-44e8-ab0c-da914d2e3826" />
 
 Commit 2 Results:
 
-<img width="827" height="941" alt="image" src="https://github.com/user-attachments/assets/923e1bab-af86-4062-a4d0-ccc6aafa3731" />
+<img width="527" height="641" alt="image" src="https://github.com/user-attachments/assets/923e1bab-af86-4062-a4d0-ccc6aafa3731" />
 
