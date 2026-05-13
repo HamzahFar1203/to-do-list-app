@@ -9,3 +9,6 @@ This is my first fully Git project. From beginning of development to end, I will
 3. Functionality (JS)
 
 This is a very simple Front-End project. Data is not saved across sessions.
+
+Commit #1:
+<img width="882" height="838" alt="image" src="https://github.com/user-attachments/assets/aaf2de99-16db-44e8-ab0c-da914d2e3826" />
